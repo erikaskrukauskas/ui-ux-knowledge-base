@@ -40,6 +40,13 @@ A convention from one platform applies to that platform. Check the other platfor
 
 These rows are starting points. They are not a frozen specification, and they are not a substitute for the check named in the task.
 
+## Keeping the library current
+
+- A topic this repo does not yet cover: `.cursor/skills/add-uncovered-ui-topic/SKILL.md`
+- Whether a page already here still matches the sources above: `.cursor/skills/review-covered-ui-topics/SKILL.md`
+
+A covered-topic review writes its report under `Official-Documentation/updates/`.
+
 ## How to add a source
 
 Add a row with the official entry URL, the date you checked it, and the decision it supports. Keep AI product docs in the AI knowledge base. Keep implementation, data, and release docs in those repos.

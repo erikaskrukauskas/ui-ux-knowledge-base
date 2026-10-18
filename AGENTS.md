@@ -28,6 +28,11 @@ You are in the UI/UX knowledge base. Other projects consult this repo for interf
 
 Use `superseded` when a newer document replaces this one. Past references still resolve.
 
+## Knowledge maintenance
+
+- A topic this repo does not yet cover: `.cursor/skills/add-uncovered-ui-topic/SKILL.md`
+- Whether pages already here still match current sources: `.cursor/skills/review-covered-ui-topics/SKILL.md`
+
 ## Before you finish a documentation change
 
 Search for an existing page on the same topic:
