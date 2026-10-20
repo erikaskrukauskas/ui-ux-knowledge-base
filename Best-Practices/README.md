@@ -2,7 +2,7 @@
 title: Best practices index
 tags: [practices, index]
 status: verified
-updated: 2026-10-17
+updated: 2026-10-19
 ---
 
 # Best practices
@@ -131,3 +131,103 @@ The pages are platform-neutral. A design tool, a component library, or a fronten
 | [Prevent the costly error first](116-prevent-the-costly-error-first.md) | Use this when you rank which mistakes to design out |
 | [Let people tailor a frequent action](117-let-people-tailor-a-frequent-action.md) | Use this for a frequent view, filter, or command |
 | [Keep needed information on the step](118-keep-needed-information-on-the-step.md) | Use this when a later step depends on an earlier choice, a code, or a price |
+| [Hide a decorative image from the name](119-hide-a-decorative-image-from-the-name.md) | Use this when a picture is a border, a spacer, or an illustration of text already beside it. |
+| [Name a functional image by its action](120-name-a-functional-image-by-its-action.md) | Use this when an icon, a logo, or a picture is the control. |
+| [Give a complex image a long description](121-give-a-complex-image-a-long-description.md) | Use this when the picture holds more than one sentence of information. |
+| [Name a group of images once](122-name-a-group-of-images-once.md) | Use this for a rating, a score, or any row of pictures that together mean one thing. |
+| [Describe each image in a collection](123-describe-each-image-in-a-collection.md) | Use this when each image is its own information, not a fragment of one fact. |
+| [Name each region of an image map](124-name-each-region-of-an-image-map.md) | Use this when one picture contains more than one link. |
+| [Repeat the words shown in an image of text](125-repeat-the-words-shown-in-an-image-of-text.md) | Use this when a logo or a picture must keep lettering that real text cannot replace. |
+| [Keep images that carry the interface](126-keep-images-that-carry-the-interface.md) | Use this when someone proposes a separate text-only version of a view. |
+| [Do not repeat adjacent text in the alternative](127-do-not-repeat-adjacent-text-in-the-alternative.md) | Use this when a caption or a paragraph fully describes the picture. |
+| [Name an icon that changes the destination](128-name-an-icon-that-changes-the-destination.md) | Use this when a small picture sits in a link and changes what the person should expect. |
+| [Do not use color as the only cue](129-do-not-use-color-as-the-only-cue.md) | Use this when color marks a required field, an error, a status, a series, or a link. |
+| [Describe the topic in the heading or label](130-describe-the-topic-in-the-heading-or-label.md) | Use this whenever a heading or a label is shown. |
+| [Do not skip heading ranks](131-do-not-skip-heading-ranks.md) | Use this when a view has more than one level of heading. |
+| [Keep heading ranks stable in repeated regions](132-keep-heading-ranks-stable-in-repeated-regions.md) | Use this when a region repeats beside content whose headings change. |
+| [Mark the regions of the view](133-mark-the-regions-of-the-view.md) | Use this on a view that has more than one block of content. |
+| [Label regions that share a type](134-label-regions-that-share-a-type.md) | Use this when a view has two navigation blocks, or any repeated region type. |
+| [Give a data table a caption](135-give-a-data-table-a-caption.md) | Use this when a grid of related values is shown. |
+| [Summarize a complex table without repeating the caption](136-summarize-a-complex-table-without-repeating-the-caption.md) | Use this when row and column structure is unusual enough that a person needs a map. |
+| [Do not use a table to lay out the view](137-do-not-use-a-table-to-lay-out-the-view.md) | Use this when you are tempted to place headings, images, or fields into table cells for alignment. |
+| [Associate every data cell with its headers](138-associate-every-data-cell-with-its-headers.md) | Use this for any grid a person reads one cell at a time. |
+| [Make each label clear without the group name](139-make-each-label-clear-without-the-group-name.md) | Use this when several fields share a group label, such as two addresses. |
+| [Name a set of radio options as a group](140-name-a-set-of-radio-options-as-a-group.md) | Use this whenever the person picks one of several radios. |
+| [Keep the group name short](141-keep-the-group-name-short.md) | Use this when related fields or options share one legend. |
+| [Group options in a long list](142-group-options-in-a-long-list.md) | Use this when a single list mixes several categories. |
+| [Ask only for what the task needs](143-ask-only-for-what-the-task-needs.md) | Use this when you add a field. |
+| [Put the form instructions before the fields](144-put-the-form-instructions-before-the-fields.md) | Use this for required markers, shared formats, and where to find help. |
+| [Put the expected format in the label](145-put-the-expected-format-in-the-label.md) | Use this for a date, a code, or any field with a required pattern. |
+| [Keep a visible label on every field](146-keep-a-visible-label-on-every-field.md) | Use this for text fields, choices, and lists. |
+| [Let the label activate the control](147-let-the-label-activate-the-control.md) | Use this for radios, checkboxes, and any small control. |
+| [Place the label with its field](148-place-the-label-with-its-field.md) | Use this for every field. |
+| [Associate the label with that field](149-associate-the-label-with-that-field.md) | Use this for every field you label. |
+| [Do not use a tooltip as the name](150-do-not-use-a-tooltip-as-the-name.md) | Use this when a field has no visible label and someone suggests a title or a hover tip. |
+| [Keep a hidden name available](151-keep-a-hidden-name-available.md) | Use this only when the visible context already identifies the field, such as a search field beside a Search button. |
+| [Do not remove a name from everyone](152-do-not-remove-a-name-from-everyone.md) | Use this when you visually hide a label or a hint. |
+| [Split a long form into logical steps](153-split-a-long-form-into-logical-steps.md) | Use this when one form is long enough to discourage people. |
+| [Repeat shared instructions on every step](154-repeat-shared-instructions-on-every-step.md) | Use this when a form spans more than one view. |
+| [Let people skip an optional stage](155-let-people-skip-an-optional-stage.md) | Use this when a step does not apply to everyone. |
+| [Say how many steps will follow](156-say-how-many-steps-will-follow.md) | Use this for a process with a known sequence. |
+| [Put the step count first in the title](157-put-the-step-count-first-in-the-title.md) | Use this when a process is a series of views. |
+| [Name the step in the main heading](158-name-the-step-in-the-main-heading.md) | Use this on every step of a multi-step form. |
+| [Mark completed and current steps in text](159-mark-completed-and-current-steps-in-text.md) | Use this when a known number of steps is shown as a sequence. |
+| [Let people reopen a completed step](160-let-people-reopen-a-completed-step.md) | Use this when a step indicator lists earlier steps. |
+| [Report whether the submission worked](161-report-whether-the-submission-worked.md) | Use this when the person sends a form. |
+| [List the errors before the fields](162-list-the-errors-before-the-fields.md) | Use this after a submission with more than one error. |
+| [Name the field in the error](163-name-the-field-in-the-error.md) | Use this in a summary and beside the field. |
+| [Move focus to the first error](164-move-focus-to-the-first-error.md) | Use this when the person submits and the view stays put. |
+| [Wait to flag a format until the field is finished](165-wait-to-flag-a-format-until-the-field-is-finished.md) | Use this for a date, a code, or any value that is incomplete while they type. |
+| [Announce typing feedback politely](166-announce-typing-feedback-politely.md) | Use this for a live check, such as whether a name is available. |
+| [Announce a format error when the field is left](167-announce-a-format-error-when-the-field-is-left.md) | Use this when the check runs on leaving the field. |
+| [Put the outcome first in the title](168-put-the-outcome-first-in-the-title.md) | Use this when a submission reloads the view or replaces it. |
+| [Pair a valid or invalid cue with text](169-pair-a-valid-or-invalid-cue-with-text.md) | Use this for inline success and error on a field. |
+| [Use one column for a form](170-use-one-column-for-a-form.md) | Use this for a form longer than a couple of fields. |
+| [Follow a familiar field order](171-follow-a-familiar-field-order.md) | Use this when a form asks for a known sequence, such as a payment or a shipment. |
+| [Show a short set of options](172-show-a-short-set-of-options.md) | Use this when the person is choosing among a very small set. |
+| [Size the field to the answer](173-size-the-field-to-the-answer.md) | Use this when you set the width of a field. |
+| [Label the optional fields](174-label-the-optional-fields.md) | Use this when a form includes a question some people may skip. |
+| [State the format before the person fails](175-state-the-format-before-the-person-fails.md) | Use this for passwords, phone numbers, and any field with a syntax. |
+| [Do not offer a control that clears the form](176-do-not-offer-a-control-that-clears-the-form.md) | Use this at the end of a form. |
+| [Make cancel quieter than submit](177-make-cancel-quieter-than-submit.md) | Use this when a form collects sensitive input and people need a way to discard it. |
+| [Make an error unmistakable](178-make-an-error-unmistakable.md) | Use this when a field fails validation. |
+| [Show one tab panel at a time](179-show-one-tab-panel-at-a-time.md) | Use this when related content splits into a few peer groups. |
+| [Keep every tab in view](180-keep-every-tab-in-view.md) | Use this when you add another tab. |
+| [Keep critical content on the selected tab](181-keep-critical-content-on-the-selected-tab.md) | Use this when one tab is shown by default. |
+| [Do not split a comparison across tabs](182-do-not-split-a-comparison-across-tabs.md) | Use this when two panels would have to be remembered to be compared. |
+| [Do not mix navigation tabs with in-page tabs](183-do-not-mix-navigation-tabs-with-in-page-tabs.md) | Use this when several tabs share one list. |
+| [Mark the selected tab in more than one way](184-mark-the-selected-tab-in-more-than-one-way.md) | Use this for every tab list, and especially when there are only two tabs. |
+| [Keep unselected tabs readable](185-keep-unselected-tabs-readable.md) | Use this for every tab that is not selected. |
+| [Keep the selected tab next to its panel](186-keep-the-selected-tab-next-to-its-panel.md) | Use this when you place a tab list and its panel. |
+| [Use a single row of tabs](187-use-a-single-row-of-tabs.md) | Use this for a website or a simple app. |
+| [Put the tab list before the panel](188-put-the-tab-list-before-the-panel.md) | Use this for in-page tabs. |
+| [Select the frequent tab by default](189-select-the-frequent-tab-by-default.md) | Use this when you choose the default tab. |
+| [Write a short tab label](190-write-a-short-tab-label.md) | Use this when you name a tab. |
+| [Reserve endless scroll for open browsing](191-reserve-endless-scroll-for-open-browsing.md) | Use this when you choose how a long list grows. |
+| [Return the person to their place in the list](192-return-the-person-to-their-place-in-the-list.md) | Use this when a list opens a detail and the person goes back. |
+| [Show that more items are loading](193-show-that-more-items-are-loading.md) | Use this when a list fetches more as the person reaches the bottom. |
+| [Let people reach the end of the view](194-let-people-reach-the-end-of-the-view.md) | Use this when content keeps loading as the person scrolls. |
+| [Show the hierarchy in the breadcrumb](195-show-the-hierarchy-in-the-breadcrumb.md) | Use this on a deep view that has real ancestors. |
+| [Keep breadcrumbs secondary to navigation](196-keep-breadcrumbs-secondary-to-navigation.md) | Use this when you add a breadcrumb trail. |
+| [Show one parent path](197-show-one-parent-path.md) | Use this in a structure where a page can live in several places. |
+| [Do not link the current crumb](198-do-not-link-the-current-crumb.md) | Use this at the end of a breadcrumb trail. |
+| [Include only real pages in the trail](199-include-only-real-pages-in-the-trail.md) | Use this when a menu has labels that are not destinations. |
+| [Do not wrap the breadcrumb trail](200-do-not-wrap-the-breadcrumb-trail.md) | Use this when a trail is shown on a narrow view. |
+| [Label an icon with visible text](201-label-an-icon-with-visible-text.md) | Use this for navigation and for any icon that is not a truly standard action. |
+| [Do not invent an icon for an abstract idea](202-do-not-invent-an-icon-for-an-abstract-idea.md) | Use this when a navigation item or an action has no familiar symbol. |
+| [Represent a menu as a list](203-represent-a-menu-as-a-list.md) | Use this for navigation and for a sequence of steps presented as a menu. |
+| [Label every menu on the view](204-label-every-menu-on-the-view.md) | Use this when a view has one or more menus. |
+| [Mark the current item in the menu](205-mark-the-current-item-in-the-menu.md) | Use this for the item that matches the open view. |
+| [Expose the current page in the menu](206-expose-the-current-page-in-the-menu.md) | Use this when the current item stays in the tab order. |
+| [Keep the same menu order at every size](207-keep-the-same-menu-order-at-every-size.md) | Use this when a menu collapses on a small view. |
+| [Offer another way out of a flyout](208-offer-another-way-out-of-a-flyout.md) | Use this when a menu reveals a submenu on hover or on a pointer move. |
+| [Show whether a submenu is open](209-show-whether-a-submenu-is-open.md) | Use this for a drop-down or fly-out in navigation. |
+| [Do not open a submenu on tab](210-do-not-open-a-submenu-on-tab.md) | Use this for a menu with submenus. |
+| [Delay closing a flyout](211-delay-closing-a-flyout.md) | Use this when a submenu opens from a pointer hover. |
+| [Separate a parent link from its submenu control](212-separate-a-parent-link-from-its-submenu-control.md) | Use this when the parent is both a destination and the owner of children. |
+| [Name the parent in the submenu control](213-name-the-parent-in-the-submenu-control.md) | Use this when a button shows or hides children. |
+| [Let people pause a carousel](214-let-people-pause-a-carousel.md) | Use this when slides advance without a request. |
+| [Announce the carousel item that is showing](215-announce-the-carousel-item-that-is-showing.md) | Use this whenever a carousel moves to another item. |
+| [Do not steal focus when a carousel moves](216-do-not-steal-focus-when-a-carousel-moves.md) | Use this for a carousel with automatic motion or with previous and next controls. |
+| [Pause a carousel on hover and on focus](217-pause-a-carousel-on-hover-and-on-focus.md) | Use this when slides advance on their own. |
+| [Operate a carousel from the keyboard](218-operate-a-carousel-from-the-keyboard.md) | Use this when a view shows one item from a set and offers a way to change it. |
